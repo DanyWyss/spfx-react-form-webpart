@@ -37,6 +37,7 @@ const ConfigureWebPart: React.SFC<IConfigureWebPartProps> = (props) => {
         </div>
       </div>
     );
+    
 };
 
 
